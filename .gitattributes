@@ -1,0 +1,1 @@
+/home/ubuntu/terra_aws filter=lfs diff=lfs merge=lfs -text
